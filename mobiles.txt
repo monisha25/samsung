@@ -1,0 +1,4 @@
+redmi1
+redmi2
+redmi3
+redminote
